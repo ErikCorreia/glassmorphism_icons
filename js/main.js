@@ -9,7 +9,7 @@ colors.addEventListener('mouseout', () => {
   colors.style.background = 'linear-gradient(to bottom, #0cc1c7, #00b862)';
 });
 
-/*Altera a cor de fundo do elemento "sectin" quando o evento de "mouseover" for disparado
+/*Altera a cor de fundo do elemento "section" quando o evento de "mouseover" for disparado
 para cada icone */
 facebook.addEventListener('mouseover', () => {
   colors.style.background = '#0055c4';
