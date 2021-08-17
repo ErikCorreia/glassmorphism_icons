@@ -30,26 +30,7 @@
     position: absolute;
     filter: blur(150px);
   }
-  section .color:nth-child(1) {
-    top: -350px;
-    width: 100%;
-    height: 650px;
-    background: rgba(96,96,96, 0.2);
-  }
-  section .color:nth-child(2) {
-    bottom: -150px;
-    right: 0;
-    width: 800px;
-    height: 700px;
-    background: rgba(126, 126, 126, 0.2);
-  }
-  section .color:nth-child(3) {
-    bottom: -150px;
-    right: 0;
-    width: 700px;
-    height: 600px;
-    background: rgba(255,255,255, 0.2);
-  }
+  
   section ul {
     position: relative;
     display: flex;
